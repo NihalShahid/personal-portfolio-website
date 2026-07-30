@@ -1,40 +1,43 @@
 # Personal Portfolio Website
 
-## Project Name
+## Overview
 
-**Personal Portfolio Website**
+A responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. The website presents personal information, education, experience, skills, projects, and contact details.
 
-## Repository
+## Features
 
-https://github.com/NihalShahid/personal-portfolio-website
+* About Me
+* Resume
+* Skills
+* Portfolio
+* Testimonials
+* Contact Form
+* Social Media Links
 
-## Team Members
+## Technologies Used
 
-| Team Member | Branch   | Task                                                       |
-| ----------- | -------- | ---------------------------------------------------------- |
-| Nihal       | `main`   | Create repository, add collaborators, review pull requests |
-| Alisha      | `html`   | Create `index.html`                                        |
-| Rina        | `css`    | Create `style.css`                                         |
-| Aliya       | `js`     | Create `script.js`                                         |
-| Nihal       | `readme` | Create `README.md`                                         |
+* HTML5
+* CSS3
+* JavaScript
 
-## Branch Names
+## How to Run
 
-* `main`
-* `html`
-* `css`
-* `js`
-* `readme`
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+##  Team Members
+
+| Member | Branch   | Task                  |
+| ------ | -------- | --------------------- |
+| Nihal  | `main`   | Repository Management |
+| Alisha | `html`   | `index.html`          |
+| Rina   | `css`    | `style.css`           |
+| Aliya  | `js`     | `script.js`           |
+| Nihal  | `readme` | `README.md`           |
 
 ## Git Workflow
 
-1. Clone the repository.
-2. Switch to your assigned branch.
-3. Create or update only your assigned file.
-4. Stage the changes using `git add`.
-5. Commit the changes using `git commit`.
-6. Push the branch to GitHub.
-7. Create a Pull Request (PR).
-8. Wait for review and approval.
-9. Merge the Pull Request into the `main` branch.
+Clone → Branch → Edit → Commit → Push → Pull Request → Review → Merge
+
 
