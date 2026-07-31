@@ -9,7 +9,7 @@ const sidebarBtn = document.querySelector('[data-sidebar-btn]');
 
 if (sidebar && sidebarBtn) {
   sidebarBtn.addEventListener('click', function () {
-    sidebar.classList.toggle('active');
+    sidebar.classList.toggle('actie');
   });
 }
 
